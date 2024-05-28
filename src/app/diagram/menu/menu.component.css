@@ -1,0 +1,11 @@
+.buttons-section {
+    padding: 0;
+    list-style: none;
+    background: #fafafa;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 15px;
+}
